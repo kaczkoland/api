@@ -2,6 +2,10 @@
 Informacje o API Kaczkolandu do statystyk oraz banów.
 ## Gotowe biblioteki
 NodeJS - [kaczkoland-wrapper](https://github.com/kaczkoland/kaczkoland-wrapper) (autor: [Aleks-1123](https://github.com/Aleks-1123))
+Chcesz, abyśmy dodali twoją bibliotekę tutaj? Otwórz [dyskusję](https://github.com/kaczkoland/api/discussions/categories/twoja-biblioteka-aplikacja-z-api).
+## Aplikację/boty
+Brak
+Chcesz, abyśmy dodali twojego bota/aplikację tutaj? Otwórz [dyskusję](https://github.com/kaczkoland/api/discussions/categories/twoja-biblioteka-aplikacja-z-api).
 ## Endpointy
 Bazowy dres API to `https://api.kaczkoland.pl/`
 ### Statystyki
