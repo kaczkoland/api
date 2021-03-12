@@ -4,10 +4,10 @@ Informacje o API Kaczkolandu do statystyk oraz banów.
 NodeJS - [kaczkoland-wrapper](https://github.com/kaczkoland/kaczkoland-wrapper) (autor: [Aleks-1123](https://github.com/Aleks-1123))<br>
 Chcesz, abyśmy dodali twoją bibliotekę tutaj? Otwórz [dyskusję](https://github.com/kaczkoland/api/discussions/categories/twoja-biblioteka-aplikacja-z-api).
 ## Aplikację/boty
-Brak<br>
+[Krive Bot](https://krivebot.tk) - Bot Discord ([Dodaj](https://discord.com/oauth2/authorize?client_id=804694672806379521&scope=bot))<br>
 Chcesz, abyśmy dodali twojego bota/aplikację tutaj? Otwórz [dyskusję](https://github.com/kaczkoland/api/discussions/categories/twoja-biblioteka-aplikacja-z-api).
 ## Endpointy
-Bazowy dres API to `https://api.kaczkoland.pl/`
+Bazowy adres API to `https://api.kaczkoland.pl/`
 ### Statystyki
 ```http
 GET /all
