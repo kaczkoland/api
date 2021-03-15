@@ -74,5 +74,15 @@ Zwraca wszystkich zbanowanych graczy
     "target":"mood2137",
     "source":"rkubapl"
   }
+]
 ```
 Jeśli zawartośc atrybutu `expiration` jest -1, oznacza to pernamentną blokadę na konto.
+### Lista graczy online
+```http
+GET /online
+```
+Zwraca wszystkich graczy online
+#### Przykładowa odpowiedź
+```javascript
+["rkubapl", "MinecraftCiach"]
+```
