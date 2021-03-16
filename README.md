@@ -1,5 +1,5 @@
 # API Kaczkolandu
-Informacje o API Kaczkolandu do statystyk oraz banów.
+Informacje o API Kaczkolandu do statystyk, banów, graczy online itd.
 ## Gotowe biblioteki
 NodeJS - [kaczkoland-wrapper](https://github.com/kaczkoland/kaczkoland-wrapper) (autor: [Aleks-1123](https://github.com/Aleks-1123))<br>
 Chcesz, abyśmy dodali twoją bibliotekę tutaj? Otwórz [dyskusję](https://github.com/kaczkoland/api/discussions/categories/twoja-biblioteka-aplikacja-z-api).
