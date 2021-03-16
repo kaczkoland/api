@@ -7,7 +7,7 @@ Chcesz, abyśmy dodali twoją bibliotekę tutaj? Otwórz [dyskusję](https://git
 [Krive Bot](https://krivebot.tk) - Bot Discord ([Dodaj](https://discord.com/oauth2/authorize?client_id=804694672806379521&scope=bot))<br>
 [Slacky](https://discord.com/oauth2/authorize?client_id=719830415615197204&scope=bot) - Bot Discord<br>
 Chcesz, abyśmy dodali twojego bota/aplikację tutaj? Otwórz [dyskusję](https://github.com/kaczkoland/api/discussions/categories/twoja-biblioteka-aplikacja-z-api).<br>
-Boty wymienione wyżej nie są zarządzane przez nas, nie odpowiadamy za ewentualne zniszczenia serwera. Najbezpieczniej jest nie dawać botowi uprawnień do wyrzucania, banowania, usuwania kanałów itd.
+Boty Discord wymienione wyżej nie są zarządzane przez nas, nie odpowiadamy za ewentualne zniszczenia serwera. Najbezpieczniej jest nie dawać botowi uprawnień do wyrzucania, banowania, usuwania kanałów itd.
 ## Endpointy
 Bazowy adres API to `https://api.kaczkoland.pl/`
 ### Statystyki
