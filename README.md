@@ -88,3 +88,55 @@ Zwraca wszystkich graczy online
 ```javascript
 ["rkubapl", "MinecraftCiach"]
 ```
+### Lista wyciszonych graczy
+```http
+GET /mutes
+```
+Zwraca wszystkich zbanowanych graczy
+#### Przykładowa odpowiedź
+```javascript
+[
+  {
+    "expiration":1616008724374,
+    "created_at":1615403924374,
+    "reason":"wspolpraca z cheaterem",
+    "target":"ZombelleQ",
+    "source":"rkubapl",
+    "type: "TEMP_MUTE"
+  },
+  {
+    "expiration":-1,
+    "created_at":1615404006620,
+    "reason":"wspolpraca z cheaterem",
+    "target":"mood2137",
+    "source":"rkubapl",
+    "type": "MUTE"
+   }
+]
+```
+### Lista ostrzeżeń
+```http
+GET /warns
+```
+Zwraca wszystkie ostrzeżenia graczy
+#### Przykładowa odpowiedź
+```javascript
+[
+  {
+    "expiration":-1,
+    "created_at":"1615899462093",
+    "reason":"Brak",
+    "target":"test1",
+    "source":"rkubapl",
+    "type":"WARNING"
+   },
+   {
+    "expiration":1615906664843000,
+    "created_at":"1615899464843",
+    "reason":"Brak",
+    "target":"test1",
+    "source":"rkubapl",
+    "type":"TEMP_WARNING"
+   }
+]
+```
