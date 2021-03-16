@@ -102,7 +102,7 @@ Zwraca wszystkich zbanowanych graczy
     "reason":"wspolpraca z cheaterem",
     "target":"ZombelleQ",
     "source":"rkubapl",
-    "type: "TEMP_MUTE"
+    "type": "TEMP_MUTE"
   },
   {
     "expiration":-1,
