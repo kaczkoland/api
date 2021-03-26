@@ -124,7 +124,7 @@ Zwraca wszystkie ostrzeżenia graczy
 [
   {
     "expiration":-1,
-    "created_at":"1615899462093",
+    "created_at":1615899462093,
     "reason":"Brak",
     "target":"test1",
     "source":"rkubapl",
@@ -132,7 +132,7 @@ Zwraca wszystkie ostrzeżenia graczy
    },
    {
     "expiration":1615906664843000,
-    "created_at":"1615899464843",
+    "created_at":1615899464843,
     "reason":"Brak",
     "target":"test1",
     "source":"rkubapl",
